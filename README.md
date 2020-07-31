@@ -1,6 +1,6 @@
-<img src="./assets/konstantin.png" width="300px">
+<img src="https://raw.githubusercontent.com/kissu/kissu/master/assets/konstantin.png" width="300px">
 
-## Hiiii, I'm Konstantin~ <img src="./assets/wave.gif" width="30px">
+## Hiiii, I'm Konstantin~ <img src="https://raw.githubusercontent.com/kissu/kissu/master/assets/wave.gif" width="30px">
 
 I'm a russian 🇷🇺 fullstack web developer currenly living in Bordeaux, France. 🍷
 
