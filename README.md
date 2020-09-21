@@ -2,9 +2,9 @@
 
 ## Hiiii, I'm Konstantin~ <img src="https://raw.githubusercontent.com/kissu/kissu/master/assets/wave.gif" width="30px">
 
-I'm a russian 🇷🇺 fullstack web developer currenly living in Bordeaux, France. 🍷
+I'm a russian 🇷🇺 fullstack web developer currently living in Bordeaux, France. 🍷
 
-- 👨‍💻 Currently freelance, working with JavaScript
+- 👨‍💻 Currently working with JavaScript
 - 🐦 Sharing my best discoveries on [@kissu_io](https://twitter.com/kissu_io)
 - 🎤 I like to go to conferences as an attendee or a [speaker](https://www.youtube.com/results?search_query=konstantin+bifert)
 - 🎎 Hosting a local meetup (before COVID at least 😆) in my city: [HumanTalks Bordeaux](https://www.meetup.com/fr-FR/Human-Talks-Bordeaux/events/past/)
