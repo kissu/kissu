@@ -6,6 +6,7 @@ I'm a russian 🇷🇺 fullstack web developer currently living in Bordeaux, Fra
 
 - 👨‍💻 Currently working with JavaScript
 - 🐦 Sharing my best discoveries on [@kissu_io](https://twitter.com/kissu_io)
+- 🤲🏻 Helping on [StackOverflow](https://stackoverflow.com/users/8816585/kissu) since 1st January 2021
 - 🎤 I like to go to conferences as an attendee or a [speaker](https://www.youtube.com/results?search_query=konstantin+bifert)
 - 🎎 Hosting a local meetup (before COVID at least 😆) in my city: [HumanTalks Bordeaux](https://www.meetup.com/fr-FR/Human-Talks-Bordeaux/events/past/)
 - 🛠 I heavily enjoying FOSS, [custom mech keyboards](https://twitter.com/kissu_io/status/1223193137906057219/photo/1) or any DIY tech. Oh and gaming !
