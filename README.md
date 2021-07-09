@@ -11,7 +11,7 @@ I'm a russian 🇷🇺 fullstack web developer currently living in Bordeaux, Fra
   - 🧑‍💻 I've been asked as a mentor by some people, so I am now available on [MentorCruise](mentors.to/kissu)
 - 🎤 I love attending conferences or being invited as a [speaker](https://www.youtube.com/results?search_query=konstantin+bifert)
 - 🎎 Hosting a local meetup (before COVID at least 😆) in my city: [HumanTalks Bordeaux](https://www.meetup.com/fr-FR/Human-Talks-Bordeaux/events/past/)
-- 🛠 I heavily enjoying FOSS, [custom mech keyboards](https://twitter.com/kissu_io/status/1223193137906057219/photo/1) or any DIY tech. Oh and gaming ! 🎮
+- 🛠 I heavily enjoy FOSS, [custom mech keyboards](https://twitter.com/kissu_io/status/1223193137906057219/photo/1) or any DIY tech. Oh and gaming ! 🎮
 - 🖋 I'm [blogging](https://www.kissu.io/how-to-build-a-mech-keyboard) (trying to at least)
 - 🙊 Want to hear my sensual _baguette_ voice? I was on [a podcast](https://podcast.ausha.co/human-coders-podcast/jamstack-ou-comment-faire-des-sites-statiques-modernes-et-rapides) last year
 - 🌱 Seeking to improve my skills and eager of learning cool stuff daily !
