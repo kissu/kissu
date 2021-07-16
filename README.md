@@ -7,6 +7,7 @@ I'm a russian 🇷🇺 fullstack web developer currently living in Bordeaux, Fra
 - 👨‍💻 Mostly working with JavaScript 💟
 - 🐦 Sharing my best discoveries on [@kissu_io](https://twitter.com/kissu_io)
 - 🤲🏻 Helper on [StackOverflow](https://stackoverflow.com/users/8816585/kissu) since 1st January 2021
+  - 🧜🏻‍♂️ I'm a Nuxt.js ambassador 💚
   - 🎯 Heavily focused on the [nuxt tag](https://stackoverflow.com/tags/nuxt.js/topusers), I aim to provide the best possible answers, **daily**
   - 🧑‍💻 I've been asked as a mentor by some people, so I am now available on [MentorCruise](mentors.to/kissu)
 - 🎤 I love attending conferences or being invited as a [speaker](https://www.youtube.com/results?search_query=konstantin+bifert)
