@@ -9,7 +9,7 @@
 
 I've been building for the web for about ten years now, from the pixels all the way down to the server they run on. Vue and Nuxt are home 💚, but you'll also find me in React, TypeScript, Node.js, Go and a fair amount of Docker, lately for teams like ABN AMRO, Miele X, Nordhealth and RAIN Magazine.
 
-- 🤖 **AI-first, not AI-pilled:** agents write a good chunk of my code these days (Claude Code, custom skills, MCP servers), but I review every line and own every decision.
+- 🤖 **Responsible AI-first** agents write a good chunk of my code these days (Claude Code, custom skills, MCP servers), but I review every line and own every decision.
 - 🙌 **Answering questions** on [Stack Overflow](https://stackoverflow.com/users/8816585/kissu), 850 days in a row at one point, mostly Vue and Nuxt. Around 10M developers reached so far.
 - 🎤 **On stage** more than 30 times: talks, MC'ing, organizing PragVue and the Vue.js Rocks meetup, and GitNation's conference committee.
 - 💜 **Giving back:** Nuxt ambassador, Women Techmakers ambassador, mentoring since 2018, and a couple of years teaching at Le Wagon Amsterdam.
